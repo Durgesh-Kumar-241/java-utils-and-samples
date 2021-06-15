@@ -3,7 +3,7 @@ package com.filesearch;
 import java.io.File;
 
 
-public class Main {
+public class  RecuFileSearch{
 
   public static void main(String[] args) {
   
